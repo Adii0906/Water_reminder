@@ -14,7 +14,7 @@ This Python script reminds you to drink water at regular intervals. It displays 
 2. Install the necessary Python libraries using `pip`:
 
    ```bash
-   pip install pygame  # (for sound notifications)
+   pip instal WinSound  # (for sound notifications)
 #run the script
 python water_reminder.py
 
